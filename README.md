@@ -1,5 +1,13 @@
 # Azure Secure 3-Tier Architecture
 
+![Azure](https://img.shields.io/badge/Cloud-Microsoft%20Azure-blue)
+![Azure CLI](https://img.shields.io/badge/Tool-Azure%20CLI-blue)
+![Application Gateway](https://img.shields.io/badge/Service-Application%20Gateway-orange)
+![VM Scale Set](https://img.shields.io/badge/Compute-VM%20Scale%20Sets-green)
+![Azure Monitor](https://img.shields.io/badge/Monitoring-Azure%20Monitor-purple)
+![Log Analytics](https://img.shields.io/badge/Logs-Log%20Analytics-yellow)
+
+
 This project demonstrates the design and deployment of a **secure and scalable 3-Tier architecture in Microsoft Azure** using core cloud infrastructure services.
 
 The architecture uses **Application Gateway, Virtual Machine Scale Sets, Virtual Networks, Network Security Groups, Azure Monitor, and Log Analytics** to build a production-style cloud environment.
