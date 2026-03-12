@@ -5,25 +5,27 @@ This project demonstrates the design and deployment of a **secure and scalable 3
 The architecture uses **Application Gateway, Virtual Machine Scale Sets, Virtual Networks, Network Security Groups, Azure Monitor, and Log Analytics** to build a production-style cloud environment.
 
 ---
-plllo
-                 Internet
-                     │
-             Public IP Address
-                     │
-          Azure Application Gateway
-                     │
-            VM Scale Set (Web Tier)
-                     │
-                Azure Virtual Network
-        ┌──────────────┼──────────────┐
-      Web Subnet     App Subnet     DB Subnet
-                     │
-                Azure Monitor
-                     │
-           Log Analytics Workspace
-                     │
-             Azure Storage Account
+## Architecture Diagram
 
+```
+                    Internet
+                        │
+                Public IP Address
+                        │
+            Azure Application Gateway
+                        │
+              VM Scale Set (Web Tier)
+                        │
+                 Azure Virtual Network
+        ┌───────────────┼───────────────┐
+     Web Subnet      App Subnet       DB Subnet
+                        │
+                 Azure Monitor
+                        │
+           Log Analytics Workspace
+                        │
+               Azure Storage Account
+```
 
 
 
