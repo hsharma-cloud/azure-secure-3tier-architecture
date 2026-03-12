@@ -169,5 +169,6 @@ Building production-style cloud infrastructure
 
 # Author
 
-Cloud Security Engineering Lab  
-Azure Architecture Practice Project
+# Author
+Hari Sharma  
+GitHub: https://github.com/hsharma-cloud
