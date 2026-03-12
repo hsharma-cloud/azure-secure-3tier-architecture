@@ -204,7 +204,5 @@ Building production-style cloud infrastructure
 ---
 
 # Author
-
-# Author
 Hari Sharma  
 GitHub: https://github.com/hsharma-cloud
